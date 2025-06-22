@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Installing dependencies...
+  build:
+    commands:
+      - echo Build phase - preparing files for deployment
+
+artifacts:
+  files:
+    - website/**/*
+
+  discard-paths: no
