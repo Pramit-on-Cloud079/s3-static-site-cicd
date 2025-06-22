@@ -1,6 +1,6 @@
-# Static Portfolio Website CI/CD using AWS CodePipeline + S3
+# Static Website CI/CD using AWS CodePipeline + S3
 
-This project automates the deployment of a static portfolio website using a CI/CD pipeline with **GitHub**, **AWS CodeBuild**, **CodePipeline**, and **Amazon S3 (Static Website Hosting)**.
+This project automates the deployment of a static website using a CI/CD pipeline with **GitHub**, **AWS CodeBuild**, **CodePipeline**, and **Amazon S3 (Static Website Hosting)**.
 
 ---
 
